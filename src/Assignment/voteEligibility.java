@@ -1,4 +1,4 @@
-package com.aman;
+package Assignment;
 
 import java.util.Scanner;
 

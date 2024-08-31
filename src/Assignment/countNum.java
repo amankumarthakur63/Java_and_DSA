@@ -1,4 +1,4 @@
-package com.aman;
+package Assignment;
 
 public class countNum {
     public static void main(String[] args) {
