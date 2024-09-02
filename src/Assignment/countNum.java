@@ -1,8 +1,12 @@
 package Assignment;
 
+import java.util.Scanner;
+
 public class countNum {
     public static void main(String[] args) {
-        int num = 5555655;
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter number to search");
+        int num = input.nextInt();
         int count = 0;
         while (num > 0){
             int rem = num % 10;
