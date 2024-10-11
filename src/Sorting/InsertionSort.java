@@ -23,6 +23,6 @@ public class InsertionSort {
     public static void main(String[] args) {
      int [] arr = {45, 43, 54, 23, 48, 87, 56,4, 8, 9};
      insertionSort(arr);
-        System.out.println(Arrays.toString(arr));
+     System.out.println(Arrays.toString(arr));
     }
 }
