@@ -1,10 +1,10 @@
-# Java and Data Structures & Algorithms Course
+# Java and Data Structures & Algorithms 
 
-A comprehensive course designed to teach Java programming and fundamental Data Structures & Algorithms.
+A comprehensive designed to teach Java programming and fundamental Data Structures & Algorithms.
 
-## Course Features
+## Features
 
-- In-depth Java programming tutorials
+- In-depth Java programming 
 - Practical exercises on data structures (arrays, lists, stacks, queues, trees, graphs)
 - Algorithm design and analysis
 - Real-world problem-solving strategies
